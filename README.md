@@ -24,21 +24,27 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 </div>
 
 
-<h3 align="center">GitHub Stats:</h3>
-<div class="user-stats" align="center">
-| <a href=#>
-<img align="center" 
-src="http://github-readme-streak-stats.herokuapp.com?user=Grrr1337&theme=dark&background=000000" alt="Stats" />
-</a>
-|
-| <a href="#">
-<img align="center" 
-src="https://github-readme-stats.vercel.app/api?username=Grrr1337&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
-</a>
-|
-<a href="#">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grrr1337&layout=compact&hide_border=true" />
-</a> 
-|
-| ------------- | ------------- |
+
+
+<h3 style="text-align: center;">GitHub Stats:</h3>
+<div style="display: flex; flex-direction: column; align-items: center;">
+    <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin-top: 20px;">
+        <div>
+            <a href="#">
+                <img style="width: 100%; max-width: 400px;" src="http://github-readme-streak-stats.herokuapp.com?user=Grrr1337&theme=dark&background=000000" alt="Stats" />
+            </a>
+        </div>
+
+        <div>
+            <a href="#">
+                <img style="width: 100%; max-width: 400px;" src="https://github-readme-stats.vercel.app/api?username=Grrr1337&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
+            </a>
+
+            <a href="#">
+                <img style="width: 100%; max-width: 400px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grrr1337&layout=compact&hide_border=true" alt="Most used language" />
+            </a>
+        </div>
+    </div>
 </div>
+
+
