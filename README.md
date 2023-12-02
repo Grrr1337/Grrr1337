@@ -12,13 +12,26 @@ src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_c
 
 <h3 align="center">Contact me:</h3>
 <div class="social-icons" align="center" dir="auto">
+<table>
+<thead>
+<tr>
+<th>
 <a href="https://www.facebook.com/profile.php?id=100089182654508" target="blank"><img alt="Vlado's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" /></a>
-
-<a href="https://www.linkedin.com/in/vladimir-balabanov-8569791b6/" target="blank"><img alt="Vlado's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" /></a>
+</th>
+<th>
+<a href="https://www.linkedin.com/in/vladimir-balabanov-8569791b6/" target="blank"><img alt="Vlado's LinkedIn" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" /></a>
+</th>
+<th>
+<a href="mailto:vldcad1337@gmail.com" target="blank"><img alt="Vlado's Email" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" /></a>
+</th>
+</tr>
+</thead>
+</table>
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
 <div class="languages" align="center">
+<code><img height="32" width="32" src="https://download.archsupply.com/wp-content/uploads/2022/03/Copy_to_XRef_for_AutoCAD_Icon.png"></code>
 <code><img height="34" width="34" src="https://img.icons8.com/color/48/000000/html-5.png"></code>
 <code><img height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
 <code><img alt="JScript" height="30" width="30" 
