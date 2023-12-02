@@ -35,15 +35,24 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
     <a href="#">
         <img style="width: 100%; max-width: 400px;" src="http://github-readme-streak-stats.herokuapp.com?user=Grrr1337&theme=dark&background=000000" alt="Stats" />
     </a>
-</div>
 
-<div class="user-stats" align="center" dir="auto">
+<table>
+<thead>
+<tr>
+<th><a href="#">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Grrr1337&show_icons=true&include_all_commits=true&hide_border=true"
+alt="GitHub Stats"
+data-canonical-src="https://github-readme-stats.vercel.app/api?username=Grrr1337&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true"
+style="max-width: 100%;"></a>
+</th>
+<th>
 <a href="#">
-    <img style="width: 100%; max-width: 400px;" src="https://github-readme-stats.vercel.app/api?username=Grrr1337&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
-</a>
-
-<a href="#">
-    <img style="width: 100%; max-width: 400px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grrr1337&layout=compact&hide_border=true" alt="Most used language" />
-</a>
+<img align="center" 
+alt="Most used language"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grrr1337&layout=compact&hide_border=true"
+style="max-width: 100%;"></a>
+</th>
+</tr>
+</thead>
+</table>
 </div>
-
