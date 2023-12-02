@@ -6,10 +6,7 @@ src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_c
 
 <!-- Typing SVG   "•+2D+Vector Raster,+3D+profficiency" -->
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=
-    Hi,+👋+I'm+Vladimir+Balabanov!;
-    •+Tends+to+develop'n+automate+stuff;
-    •+Residential+arch.+background;"
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi,+👋+I'm+Vladimir+Balabanov!;•+Tends+to+develop'n+automate+stuff;•+Residential+arch.+background"
     alt="Typing SVG">
 </a>
 
