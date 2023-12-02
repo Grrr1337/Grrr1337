@@ -1,7 +1,13 @@
+<!-- Visitor Badge -->
+<img style="position: absolute; top: 0; right: 0;" 
+src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=My%20Page%20Visitors" alt="Visitor Badge">
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=My%20Page%20Visitors)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi,+👋+I'm+Vladimir+Balabanov+)](https://git.io/typing-svg)
+<br>
 
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi,+👋+I'm+Vladimir+Balabanov!+" alt="Typing SVG">
+</a>
 
 
 <h3 align="center">Contact me:</h3>
@@ -24,27 +30,20 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 </div>
 
 
-
-
 <h3 style="text-align: center;">GitHub Stats:</h3>
-<div style="display: flex; flex-direction: column; align-items: center;">
-    <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin-top: 20px;">
-        <div>
-            <a href="#">
-                <img style="width: 100%; max-width: 400px;" src="http://github-readme-streak-stats.herokuapp.com?user=Grrr1337&theme=dark&background=000000" alt="Stats" />
-            </a>
-        </div>
-
-        <div>
-            <a href="#">
-                <img style="width: 100%; max-width: 400px;" src="https://github-readme-stats.vercel.app/api?username=Grrr1337&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
-            </a>
-
-            <a href="#">
-                <img style="width: 100%; max-width: 400px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grrr1337&layout=compact&hide_border=true" alt="Most used language" />
-            </a>
-        </div>
-    </div>
+<div class="user-stats" align="center" dir="auto">
+    <a href="#">
+        <img style="width: 100%; max-width: 400px;" src="http://github-readme-streak-stats.herokuapp.com?user=Grrr1337&theme=dark&background=000000" alt="Stats" />
+    </a>
 </div>
 
+<div class="user-stats" align="center" dir="auto">
+<a href="#">
+    <img style="width: 100%; max-width: 400px;" src="https://github-readme-stats.vercel.app/api?username=Grrr1337&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
+</a>
+
+<a href="#">
+    <img style="width: 100%; max-width: 400px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grrr1337&layout=compact&hide_border=true" alt="Most used language" />
+</a>
+</div>
 
