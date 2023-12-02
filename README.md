@@ -6,7 +6,12 @@ src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_c
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi,+👋+I'm+Vladimir+Balabanov!+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=
+    Hi,+👋+I'm+Vladimir+Balabanov!;
+    •+Tends+to+develop'n+automate+stuff;
+    •+Residential+arch.+background;
+    •+2D+Vector/Raster,+3D+profficiency"
+    alt="Typing SVG">
 </a>
 
 
@@ -31,16 +36,18 @@ src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_c
 
 <h3 align="center">Languages and Tools:</h3>
 <div class="languages" align="center">
-<code><img height="32" width="32" src="https://download.archsupply.com/wp-content/uploads/2022/03/Copy_to_XRef_for_AutoCAD_Icon.png"></code>
-<code><img height="34" width="34" src="https://img.icons8.com/color/48/000000/html-5.png"></code>
-<code><img height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
-<code><img alt="JScript" height="30" width="30" 
+<code><img alt="AutoLISP" height="32" width="32" src="https://download.archsupply.com/wp-content/uploads/2022/03/Copy_to_XRef_for_AutoCAD_Icon.png"></code>
+<code><img alt="HTML" height="34" width="34" src="https://img.icons8.com/color/48/000000/html-5.png"></code>
+<code><img alt="CSS" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
+<code><img alt="JS" height="30" width="30" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
 <code><img alt="Csharp" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"></code>
 <code><img alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
 <code><img alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></code>
+<code><img alt="ChatGPT" width="32px" style="padding-right:10px;" src="https://img.icons8.com/?size=256&id=iGqse5s20iex&format=png"></code>
 </div>
+
 
 
 <h3 style="text-align: center;">GitHub Stats:</h3>
