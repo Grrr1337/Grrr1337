@@ -4,7 +4,7 @@
 
 
 <h3 align="center">Contact me:</h3>
-<div class="social-icons" align="center">
+<div class="social-icons" style="display: flex; justify-content: center;">
 <a href="https://www.facebook.com/profile.php?id=100089182654508" target="blank"><img align="center" alt="Vlado's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" /></a>
 
 <a href="https://www.linkedin.com/in/vladimir-balabanov-8569791b6/" target="blank"><img align="center" alt="Vlado's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" /></a>
@@ -23,3 +23,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 </div>
 
 
+**GitHub Stats**
+
+| <a href=#><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Grrr1337&theme=dark&background=000000" alt="Stats" /></a> |
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Grrr1337&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grrr1337&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
