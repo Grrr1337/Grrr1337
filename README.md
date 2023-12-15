@@ -47,6 +47,28 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 </div>
 
 
+ 
+<h3 align="center">Sample work</h3>
+<div align="center">
+  <div style="display: flex; justify-content: space-around;">
+    <div>
+      <p align="center">Distributed scatter<br>by implementing<br>region subdivision<br></p>
+      <img alt="Distributed scatter" width="300px" src="./resources/Distributed%20Rec%20Scattering.gif">
+    </div>
+    <div>
+      <p align="center">Static Dialog<br>turned into Dynamic<br>using recursion</p>
+      <img alt="Static Dialog" width="300px" src="./resources/TIP_2.gif">
+    </div>
+    <div>
+      <p align="center">Paired geometry finder<br>by implementing<br>KMeans-like algorithm</p>
+      <img alt="Paired geometry finder" width="300px" src="./resources/Reg%20Plan%20-%20Tursachka.gif">
+    </div>
+    <div>
+      <p align="center">Interactive GUI<br>with user-friendly<br>navigation design</p>
+      <img alt="Interactive GUI" width="300px" src="./resources/ZUZSO%20Demo2.gif">
+    </div>
+  </div>
+</div>
 
 <h3 style="text-align: center;">GitHub Stats:</h3>
 <div class="user-stats" align="center" dir="auto">
