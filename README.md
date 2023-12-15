@@ -47,28 +47,43 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 </div>
 
 
+
+
  
 <h3 align="center">Sample work</h3>
-<div align="center">
-  <div style="display: flex; justify-content: space-around;">
-    <div>
-      <p align="center">Distributed scatter<br>by implementing<br>region subdivision<br></p>
+
+<table align="center">
+  <tr>
+    <td>
+      <h4 align="center">Interactive Chart Exploring<br>
+       after importing data<br>in csv/xls or any format</h4>
+      <img alt="Interactive Chart Exploring" width="300px" src="./resources/Interactive%20Chart%20Exploring.gif">
+    </td>
+    <td>
+      <h4 align="center">Distributed scatter<br>
+      by implementing<br>region subdivision</h4>
       <img alt="Distributed scatter" width="300px" src="./resources/Distributed%20Rec%20Scattering.gif">
-    </div>
-    <div>
-      <p align="center">Static Dialog<br>turned into Dynamic<br>using recursion</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4 align="center">Static HTML-like dialog<br> turned into a dynamic one<br>
+      using recursion</h4>
       <img alt="Static Dialog" width="300px" src="./resources/TIP_2.gif">
-    </div>
-    <div>
-      <p align="center">Paired geometry finder<br>by implementing<br>KMeans-like algorithm</p>
+    </td>
+    <td>
+      <h4 align="center">Paired geometry finder<br>by implementing<br>KMeans-like algorithm</h4>
       <img alt="Paired geometry finder" width="300px" src="./resources/Reg%20Plan%20-%20Tursachka.gif">
-    </div>
-    <div>
-      <p align="center">Interactive GUI<br>with user-friendly<br>navigation design</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h4>Interactive GUI<br>
+      with user-friendly<br>navigation design</p>
       <img alt="Interactive GUI" width="300px" src="./resources/ZUZSO%20Demo2.gif">
-    </div>
-  </div>
-</div>
+    </td>
+  </tr>
+</table>
 
 <h3 style="text-align: center;">GitHub Stats:</h3>
 <div class="user-stats" align="center" dir="auto">
