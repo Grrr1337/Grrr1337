@@ -53,6 +53,13 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <h3 align="center">Sample work</h3>
 
 <table align="center">
+<tr>
+    <td colspan="2" align="center">
+      <h4>Autodesk Inventor<br>
+      API interoperability<br>with a modern GUI design</p>
+      <img alt="Interactive GUI" width="300px" src="./resources/Inventor%20Demo.gif">
+    </td>
+  </tr>
   <tr>
     <td>
       <h4 align="center">Interactive Chart Exploring<br>
@@ -79,10 +86,11 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   <tr>
     <td colspan="2" align="center">
       <h4>Interactive GUI<br>
-      with user-friendly<br>navigation design</p>
+      with friendly navigation<br>for exploring document data</p>
       <img alt="Interactive GUI" width="300px" src="./resources/ZUZSO%20Demo2.gif">
     </td>
   </tr>
+  
 </table>
 
 <h3 style="text-align: center;">GitHub Stats:</h3>
