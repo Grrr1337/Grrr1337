@@ -42,7 +42,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <code><img alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
 <code><img alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></code>
 <code><img alt="ChatGPT" width="32px" style="padding-right:10px;" src="https://img.icons8.com/?size=256&id=iGqse5s20iex&format=png"></code>
-<code><img alt="WordPress" width="32px" style="padding-right:10px;" src="https://camo.githubusercontent.com/795e1292e8c9d9d318c835436bc780a04db3beb25af4f386b741ef15c0a898d8/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39382f576f726450726573735f626c75655f6c6f676f2e737667"></code>
+<code><img alt="WordPress" width="32px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/174/174881.png"></code>
 <code><img alt="Docker" width="32px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/7739233?s=200&v=4"></code>
 </div>
 
