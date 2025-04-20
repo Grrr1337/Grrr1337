@@ -5,10 +5,30 @@ src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_c
 <br>
 
 <!-- Typing SVG   "•+2D+Vector Raster,+3D+profficiency" -->
+<!--
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi,+👋+I'm+Vladimir+Balabanov!;•+Tends+to+develop'n+automate+stuff;•+Residential+arch.+background"
     alt="Typing SVG">
 </a>
+-->
+ 
+<p style="
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1rem;
+  color: #2c3e50;
+  background-color: #f0f4f8;
+  padding: 10px 15px;
+  border-left: 4px solid #3498db;
+  border-radius: 4px;
+  max-width: 400px;
+  line-height: 1.5;
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+">
+  • Tends to develop and automate stuff;<br>• Residential architecture background
+</p>
+
+
+
 
 
 <h3 align="center">Contact me:</h3>
@@ -17,7 +37,7 @@ src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_c
 <thead>
 <tr>
 <th>
-<a href="https://www.facebook.com/profile.php?id=100089182654508" target="blank"><img alt="Vlado's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" /></a>
+<a href="https://www.facebook.com/profile.php?id=100089182654508" target="blank"><img alt="Vlado's Facebook" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg?w=512&h=512" /></a>
 </th>
 <th>
 <a href="https://www.linkedin.com/in/vladimir-balabanov-8569791b6/" target="blank"><img alt="Vlado's LinkedIn" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" /></a>
